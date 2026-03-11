@@ -1,3 +1,5 @@
+<html>
+<head>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -451,33 +453,43 @@
   </section>
 
   <section id="board">
-    <div class="container">
-      <h2 class="section-title">HOA Board Leadership</h2>
-      <p class="section-subtitle">
-        Meet the dedicated volunteers working to support Bel Aire Estates and serve our residents.
-      </p>
+  <div class="container">
+    <h2 class="section-title">HOA Board Leadership</h2>
+    <p class="section-subtitle">
+      Meet the dedicated volunteers working to support Bel Aire Estates and serve our residents.
+    </p>
 
-      <div class="board-grid">
-        <div class="board-member">
-          <div class="avatar">BA</div>
-          <h3>Board President</h3>
-          <p>Provides leadership, meeting oversight, and community direction.</p>
-        </div>
-        <div class="board-member">
-          <div class="avatar">HO</div>
-          <h3>Vice President</h3>
-          <p>Supports governance efforts and helps coordinate HOA initiatives.</p>
-        </div>
-        <div class="board-member">
-          <div class="avatar">EA</div>
-          <h3>Secretary / Treasurer</h3>
-          <p>Maintains records, communications, and financial transparency.</p>
-        </div>
+    <div class="board-grid">
+
+      <div class="board-member">
+        <div class="avatar">LH</div>
+        <h3>Board President</h3>
+        <p class="member-name">LaTonia Hall</p>
+        <p>President - LaTonia Hall - Provides leadership, meeting oversight, and community direction.</p>
       </div>
-    </div>
-  </section>
 
-  <section id="contact">
+      <div class="board-member">
+        <div class="avatar">JS</div>
+        <h3>Vice President</h3>
+        <p class="member-name">James Simpson</p>
+        <p>VP - James Simpson - Supports governance efforts and helps coordinate HOA initiatives.</p>
+      </div>
+
+      <div class="board-member">
+        <div class="avatar">MU</div>
+        <h3>Treasurer</h3>
+        <p class="member-name">Mike Unterkofler</p>
+        <p>Treasurer Mike Unterkofler - Maintains records, communications, and financial transparency.</p>
+      </div>
+
+      <div class="board-member">
+        <div class="avatar">AH</div>
+        <h3>Member At-Large</h3>
+        <p class="member-name">Albert Havrilla</p>
+        <p>MAL - Albert Havrilla Represents the interests of homeowners and supports board initiatives.</p>
+      </div>
+
+    <section id="contact">
     <div class="container">
       <div class="cta">
         <h2>Stay Connected with Bel Aire Estates</h2>
