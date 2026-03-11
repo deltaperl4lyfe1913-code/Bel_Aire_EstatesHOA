@@ -453,39 +453,45 @@
   </section>
 
   <section id="board">
-    <div class="container">
-      <h2 class="section-title">HOA Board Leadership</h2>
-      <p class="section-subtitle">
-        Meet the dedicated volunteers working to support Bel Aire Estates and serve our residents.
-      </p>
-      <div class="board-grid">
-        <div class="board-member">
-          <div class="avatar">LH</div>
-          <h3>Board President</h3>
-          <p>LaTonia Hall</p><h3> 
-          <p>Provides leadership, meeting oversight, and community direction.</p>
-        </div>
-        <div class="board-member">
-          <div class="avatar">JS</div>
-          <h3>Vice President</h3>
-          <p>James Simpson</p><h3>
-          <p>Supports governance efforts and helps coordinate HOA initiatives.</p>
-        </div>
-        <div class="board-member">
-          <div class="avatar">MU</div>
-          <h3>Treasurer </h3>
-          <p>Mike Unterkofler</p><h3>
-          <p>Maintains records, communications, and financial transparency.</p>
+  <div class="container">
+    <h2 class="section-title">HOA Board Leadership</h2>
+    <p class="section-subtitle">
+      Meet the dedicated volunteers working to support Bel Aire Estates and serve our residents.
+    </p>
+
+    <div class="board-grid">
+
+      <div class="board-member">
+        <div class="avatar">LH</div>
+        <h3>Board President</h3>
+        <p class="member-name">LaTonia Hall</p>
+        <p>Provides leadership, meeting oversight, and community direction.</p>
       </div>
-        <div class="board-member">
-          <div class="avatar">AH</div>
-      <h3>Member At Large</h3>
-        <p>Albert Havrilla</p>
+
+      <div class="board-member">
+        <div class="avatar">JS</div>
+        <h3>Vice President</h3>
+        <p class="member-name">James Simpson</p>
+        <p>Supports governance efforts and helps coordinate HOA initiatives.</p>
+      </div>
+
+      <div class="board-member">
+        <div class="avatar">MU</div>
+        <h3>Treasurer</h3>
+        <p class="member-name">Mike Unterkofler</p>
         <p>Maintains records, communications, and financial transparency.</p>
       </div>
+
+      <div class="board-member">
+        <div class="avatar">AH</div>
+        <h3>Member At-Large</h3>
+        <p class="member-name">Albert Havrilla</p>
+        <p>Represents the interests of homeowners and supports board initiatives.</p>
       </div>
+
     </div>
-  </section>
+  </div>
+</section>
 
   <section id="contact">
     <div class="container">
